@@ -10,3 +10,5 @@
  Web Application: Using flask
  
  Deployed : Heroku Platform
+ 
+ Model Link: https://titanic-predictionmodel.herokuapp.com/
