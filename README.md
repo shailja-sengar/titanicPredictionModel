@@ -1,4 +1,4 @@
- t]TiitanicPredictionModel
+ TiitanicPredictionModel
  # First end to end Ml Model:)
  
  Machine Learning Model with web app using flask
